@@ -1,0 +1,5 @@
+||LordOfWestoroes|StormLands
+|Dragonlands||RichLands|EstablishPeace||Sunspear|
+|EstablishPeace|EstablishPeace|Sunspear|
+|StormLands|North|RichLands|
+Sunspear|EstablishPeace|Essos|EstablishPeace|RichLands
